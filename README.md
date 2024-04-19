@@ -1,1 +1,3 @@
 # Badges
+
+implementado readme example
